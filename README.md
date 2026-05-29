@@ -120,6 +120,3 @@ Client submits tax-related query via Google Form
 6. Submit a test Google Form entry
 
 ---
-
-## 👨‍💻 Author
-Built by {{Your Name}} — AI Automation Builder specializing in n8n workflow systems, API integrations, and business automation solutions.
